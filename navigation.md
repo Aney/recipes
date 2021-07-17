@@ -1,5 +1,6 @@
 # Aney's Recipes
 
 [aney.co.uk](../)
-[Recipes Home](index.md)
+[Recipes](index.md)
+[Pastas](pastas.md)
 
